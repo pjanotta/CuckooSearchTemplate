@@ -1,0 +1,8 @@
+﻿  TestCuckooSearch.cpp
+  TspNest.cpp
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\cuckoosearch\tspnest.cpp(98): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\cuckoosearch\tspnest.cpp(245): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\cuckoosearch\tspnest.cpp(252): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\cuckoosearch\tspnest.cpp(256): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\cuckoosearch\tspnest.cpp(262): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  CuckooSearch.vcxproj -> C:\Programming\cpp\cuckoo\visual-studio-version\CuckooSearch\x64\Debug\CuckooSearch.exe

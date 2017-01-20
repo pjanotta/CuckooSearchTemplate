@@ -1,0 +1,8 @@
+﻿  LevyRnd.cpp
+  TestLevy.cpp
+  SimpleNest.cpp
+  TestCuckooSearch.cpp
+  stdafx.cpp
+  Code wird generiert...
+TestCuckooSearch.obj : error LNK2005: main ist bereits in TestLevy.obj definiert.
+C:\Programming\cpp\cuckoo\visual-studio-version\CuckooSearch\x64\TestLevyRnd\CuckooSearch.exe : fatal error LNK1169: Mindestens ein mehrfach definiertes Symbol gefunden.

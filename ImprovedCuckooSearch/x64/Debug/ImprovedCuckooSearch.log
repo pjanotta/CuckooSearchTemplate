@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  TestImprovedCuckooSearch.cpp
+  SimpleNest.cpp
+  LevyRnd.cpp
+  Code wird generiert...
+  tinyxml2.cpp
+  TspNest.cpp
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\improvedcuckoosearch\tspnest.cpp(98): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\improvedcuckoosearch\tspnest.cpp(246): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\improvedcuckoosearch\tspnest.cpp(253): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\improvedcuckoosearch\tspnest.cpp(257): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+c:\programming\cpp\cuckoo\visual-studio-version\cuckoosearch\improvedcuckoosearch\tspnest.cpp(263): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  ImprovedCuckooSearch.vcxproj -> C:\Programming\cpp\cuckoo\visual-studio-version\CuckooSearch\x64\Debug\ImprovedCuckooSearch.exe
